@@ -23,7 +23,6 @@ A key focus is on the impact of environmental and demographic factors, such as:
 1. **Model Development**: Designed and implemented Bayesian hierarchical models using R-INLA to incorporate spatial and temporal dynamics.
 2. **Variable Integration**: Integrated PM2.5 concentrations and demographic proportions into the models for a comprehensive analysis.
 3. **Result Interpretation**: Identified significant temporal trends and evaluated the added value of spatial components in model performance.
-4. **Findings Communication**: Delivered actionable insights for policymakers, healthcare providers, and public health professionals.
 
 ---
 
